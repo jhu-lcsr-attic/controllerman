@@ -1,0 +1,17 @@
+<package>
+  <description brief="controllerman_msgs">
+
+    controllerman_msgs 
+
+  </description>
+  <author>Jonathan Bohren</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/controllerman_msgs</url>
+
+  <depend package="std_msgs"/>
+  <depend package="geometry_msgs"/>
+
+</package>
+
+

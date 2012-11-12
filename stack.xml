@@ -1,0 +1,13 @@
+<stack>
+  <description brief="controllerman">
+    ControllerMan is a collection of utilities and controllers for real-time
+    control of robotic manipulators.
+  </description>
+  <author>Maintained by Jonathan Bohren / jbo@jhu.edu</author>
+  <license>BSD</license>  
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/controllerman</url>
+
+  <depend stack="ros" />
+
+</stack>
